@@ -13,7 +13,7 @@
 
 <template>
 	
-	<div class="card m-1 border-0" style="width: 10rem;">
+	<div class="card  border-0" style="width: 7rem;">
   		<div class="card-body">
     		<h1 class="card-title text-center">{{val}}</h1>
     		<p class="card-subtitle text-uppercase fw-bold text-center text-body-secondary">

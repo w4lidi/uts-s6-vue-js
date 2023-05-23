@@ -31,8 +31,8 @@
 	    	<h2  class="text-center" >{{data.clubname}}</h2>
 	  	</div>
   </div>
-  <div>{{data}}</div>
-  <div>{{data.statistic}}</div>
+  <!-- <div>{{data}}</div>
+  <div>{{data.statistic}}</div> -->
 
   </div>
   <div  class="d-flex flex-wrap justify-content-center">

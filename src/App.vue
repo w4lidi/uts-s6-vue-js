@@ -1,6 +1,5 @@
 <script>
 import Liga1 from './assets/Liga1.json'
-import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 import Card from './components/Card.vue'
 import CardV2 from './components/CardV2.vue'
