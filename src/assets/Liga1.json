@@ -1,0 +1,77 @@
+[
+	{
+		"id":0,
+		"logopath":"src/assets/img/liga1/Tim/persib.png",
+		"clubname":"PERSIB",
+		"statistic":{
+			"matches played":0,
+			"win":0,
+			"loss":0,
+			"draw":0,
+			"goals":0,
+			"yellow card":0,
+			"red card":10
+		}
+
+	},
+	{
+		"id":1,
+		"logopath":"src/assets/img/liga1/Tim/persija.png",
+		"clubname":"PERSIJA",
+		"statistic":{
+			"matches played":1,
+			"win":1,
+			"loss":1,
+			"draw":1,
+			"goals":1,
+			"yellow card":1,
+			"red card":1
+		}
+	},
+	{
+		"id":2,
+		"logopath":"src/assets/img/liga1/Tim/persebaya.png",
+		"clubname":"PERSEBAYA",
+		"statistic":{
+			"matches played":20,
+			"win":2,
+			"loss":2,
+			"draw":2,
+			"goals":2,
+			"yellow card":2,
+			"red card":2
+		}
+	}
+,
+	{
+		"id":3,
+		"logopath":"src/assets/img/liga1/Tim/bontangfc.png",
+		"clubname":"BONTANG FC",
+		"statistic":{
+			"matches played":1,
+			"win":3,
+			"loss":3,
+			"draw":3,
+			"goals":3,
+			"yellow card":3,
+			"red card":3
+		}
+		
+	}
+,
+	{
+		"id":4,
+		"logopath":"src/assets/img/liga1/Tim/persiraja.png",
+		"clubname":"PERSIRAJA",
+		"statistic":{
+			"matches played":4,
+			"win":4,
+			"loss":4,
+			"draw":4,
+			"goals":4,
+			"yellow card":4,
+			"red card":4
+		}
+	}
+
+]

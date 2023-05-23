@@ -1,0 +1,75 @@
+@import './base.css';
+
+:root{
+  --fl-sm:15px;
+  --fl-md:25px;
+  --fl-bg:60px;
+}
+
+#app {
+
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+.fl{
+width: var(--fl-sm);
+display:inline;
+}
+
+.fl-md{
+width: var(--fl-md);
+display:inline;
+}
+
+
+.mg-rg{
+  margin-right: 10px;
+}
+
+.auto-w{
+  width: 0px;
+}
+
+.up{
+  content: url('img/up.svg');
+  size: 30px;
+}
+
+.star-fill{
+  content: url('img/star-fill.svg');
+  size: 50px;
+}
+
+.star{
+  content: url('img/star.svg');
+  size: 30px;
+}
+
+.ad{
+  content: url('img/countryFlag/ad.svg');
+  size: var(--bg-size);
+}
+.ae{
+  content: url('img/countryFlag/ae.svg');
+  size: var(--bg-size);
+}
+.af{
+  content: url('img/countryFlag/af.svg');
+  size: var(--bg-size);
+}
+.ag{
+  content: url('img/countryFlag/ag.svg');
+  size: var(--bg-size);
+}
